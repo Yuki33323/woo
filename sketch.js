@@ -16,7 +16,7 @@ let classifier;
 let label = "listening";
 
 // Teachable Machine model URL:
-let soundModelURL = 'https://yuki33323.github.io/woo/';
+let soundModelURL = 'https://yuki33323.github.io/woo/model.json';
 
 
 function preload() {
